@@ -18,3 +18,6 @@ Wygenerowany zamek posiada:
 -dynamicznie generowane okna
 
 Dodatkowo, skrypt czyści teren, tak aby w przestrzeni zajmowanej przez zamek znajdował się tylko zamek
+
+Użyte rodzaje bloków (poza szkłem, wodą i powietrzem):
+DARK_OAK_FENCE, OAK_WOOD_SLAB, POLISHED_ANDESITE, ANDESITE, COBBLESTONE_WALL
